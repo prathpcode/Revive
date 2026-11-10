@@ -1,5 +1,7 @@
 # Revive
 
+**🏆 Winner at Google DeepMind Gemini 4 Argon Hackathon - Best Use of Managed Agents**
+
 Revive games that can no longer be played. Agents find surviving gameplay footage, watch all of it, and rebuild the game as a multiplayer browser game, then playtest it until it is fun and high in fidelity.
 
 Needs Node 22, [pnpm](https://pnpm.io) and [uv](https://docs.astral.sh/uv/) (`uv` builds the Python environment). The Managed Agent squad also needs `cloudflared`.
